@@ -1,4 +1,4 @@
- Razorpay Static Web Clone
+                 Razorpay Static Web Clone
 
 A simple static web clone of Razorpay built using HTML and Tailwind CSS.
 
